@@ -212,7 +212,7 @@ body {
  
 
 .side.one .fa-heart {
-  font-size: 8em;
+  font-size: 3em;
   color: red;
   animation: pulseHeart 1s ease-in-out infinite alternate;
   cursor: default;
